@@ -1,2 +1,2 @@
 # CAPTAIN-AI
-Captain ai a smart multilingual ai assistant  suffocating english, hindi, bangla
+Captain ai a smart multilingual ai assistant  sufforting english, hindi, bangla
